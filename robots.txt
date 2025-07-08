@@ -16,5 +16,11 @@ Allow: /
 User-agent: meta-externalagent/1.1
 Allow: /
 
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: facebookexternalcatalog
+Allow: /
+
 User-agent: *
 Disallow: /
