@@ -16,7 +16,7 @@ Allow: /
 User-agent: facebookexternalhit
 Allow: /
 
-User-agent: facebookexternalcatalog
+User-agent: facebookcatalog
 Allow: /
 
 User-agent: *
