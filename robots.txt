@@ -9,7 +9,6 @@ Allow: /
 
 User-agent: meta-externalagent
 Allow: /
-meta-externalagent
 
 User-agent: *
 Disallow: /
