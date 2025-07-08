@@ -1,5 +1,8 @@
 User-agent: googlebot
 Allow: /js/ld/ld.js
 
+User-agent: facebookexternalhit
+Allow: /
+
 User-agent: *
 Disallow: /
