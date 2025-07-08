@@ -4,5 +4,12 @@ Allow: /js/ld/ld.js
 User-agent: meta-externalfetcher
 Allow: /
 
+User-agent: meta-externalads
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+meta-externalagent
+
 User-agent: *
 Disallow: /
